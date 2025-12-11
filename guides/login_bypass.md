@@ -72,7 +72,7 @@ Use the following script to bypass the check by sending the *Old Hash* instead o
 
 1.  Navigate to the **Change Password** page (if not already there).
 2.  Open the **Console (F12)**.
-3.  Copy the content of the **[Change Password Script](../tools/change_password_with_hash.js)**.
+3.  Copy the content of the **[Change Password Script](../tools/password_change_with_hash.js)**.
 4.  Paste it into the console and press **Enter**.
 5.  Follow the prompts:
     * **Old Hash:** Paste the SHA256 Hash from Phase 1.
