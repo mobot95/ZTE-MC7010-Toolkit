@@ -64,6 +64,6 @@ Release of a **pre-modified, ready-to-flash firmware** for the **MC7010D** varia
 │   └── login_bypass.md
 ├── tools/                           # Helper scripts
 │   └── clean_padding.py             # Removes trailing 0xEE/0xFF bytes from raw dumps
-│   └── login_with_hash.js           # Removes trailing 0xEE/0xFF bytes from raw dumps
-│   └── password_change_with_hash.js # Removes trailing 0xEE/0xFF bytes from raw dumps
+│   └── login_with_hash.js           # Browser console script for Pass-the-Hash login
+│   └── password_change_with_hash.js # Browser console script for Pass-the-Hash change password
 └── firmware/                        # Space for releases
